@@ -4,7 +4,7 @@
 
 ## Структура
 - **basics/** — учебные программы
-- **projects/** — pet-проекты (в процессе).
+- **projects/** — pet-проекты.
 
 ## Сборка
 `g++ -std=c++11 путь/к/файлу.cpp -o имя_программы`
@@ -21,4 +21,4 @@
 
 ## Контакты
 Telegram: @timashirinov  
-GitHub: [github.com/VenomousMoon](https://github.com/VenomousMoon)
+GitHub: [github.com/VenomousMoon](https://github.com/timashirinov)
