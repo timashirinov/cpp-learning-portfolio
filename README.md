@@ -16,4 +16,4 @@
 
 ## Контакты
 Telegram: @timashirinov  
-GitHub: [github.com/VenomousMoon](https://github.com/timashirinov)
+GitHub: [github.com/timashirinov](https://github.com/timashirinov)
